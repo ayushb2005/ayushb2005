@@ -1,70 +1,93 @@
-<!--
-  This is your profile README shown on your GitHub profile homepage.
-  You can customize emojis, layout, badges, links, etc.
--->
-
-### Hi there 👋, I’m Ayush
+### 👋 Hey, I’m Ayush Bhanushali
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayushbhanushali)](https://www.linkedin.com/in/ayushbhanushali)
 [![GitHub followers](https://img.shields.io/github/followers/ayushb2005?label=Follow&style=social)](https://github.com/ayushb2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayushbhanushali.com-orange)](https://ayushbhanushali.com/whisperboard)
 
 ---
 
-## 🧰 About Me
+## 💡 About Me
 
-- I’m a sophomore at **Stony Brook University** (currently) with a passion for full-stack applications, machine learning, and solving real-world problems.  
-  :contentReference[oaicite:0]{index=0}  
-- I love exploring new technologies, building side projects, and learning every day.  
-- Always open to collaborations, mentorship, or just geeky tech convos.
+- 🎓 Sophomore at **Stony Brook University** pursuing a **B.S. in Computer Science** (Dean’s List, GPA 3.42)  
+- 🧠 Passionate about **AI, full-stack development, and distributed systems**  
+- 💼 Currently a **Software Engineering Intern** at a **Stealth AI Startup** in San Francisco  
+- 💬 Always open to collaborating on projects involving web apps, ML, or system design  
+- 🧋 Certified **boba enjoyer** & builder of things that make life easier  
 
 ---
 
-## 💡 What I’m Working On
-
-Here are some projects I’m actively working on (or planning):
+## 🚀 Current Projects
 
 | Project | Description |
 |---|---|
-| **Project A** | A full-stack web app that does X |
-| **Project B** | A machine learning model for Y |
-| **Project C** | A fun side tool for Z |
-
-> You can also list your pinned repos so people can see your best work at a glance.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-Here are some of the languages, frameworks, and tools I use:
-
-- **Languages:** JavaScript / TypeScript, Python, ⟶ (You can insert more)  
-- **Web / Backend:** Node.js, Express, React  
-- **Machine Learning / Data:** scikit-learn, TensorFlow, PyTorch  
-- **Databases / Others:** PostgreSQL, MongoDB, Docker, Git  
-
-*(Feel free to adjust/replace with your real stack)*
+| **Email Crawler** | A tool that scans your inbox to automatically track job applications and rejections, keeping your job search organized. |
+| **WhisperBoard** | Real-time meeting assistant that turns Google Meet conversations into interactive diagrams using Gemini API, WebSockets, and Miro API. |
+| **Cashbackify** | React Native + Node app recommending the best credit card for each purchase using text similarity ML to maximize savings. |
+| **RapidCart** | Full-stack e-commerce app (React + Spring Boot + MongoDB) optimized for 30% faster queries, deployed on AWS EC2 with NGINX. |
+| **Pure (Hackathon)** | AI cancer detection model built with PyTorch and React that achieved **98% accuracy** in identifying malignant scans. |
 
 ---
 
-## 📫 Connect With Me
+## 🧰 Tech Stack
 
-| Platform | Link |
-|---|---|
-| LinkedIn | [ayushbhanushali](https://www.linkedin.com/in/ayushbhanushali) |
-| Email | your.email@example.com |
-| Portfolio | [ayushbhanushali.com](https://www.ayushbhanushali.com) |
+**Languages:**  
+Java · Python · TypeScript · JavaScript · C# · C · HTML/CSS  
+
+**Frameworks & Libraries:**  
+React · React Native · Spring Boot · Express · Node.js · Flask · PyTorch · Flutter  
+
+**Cloud & Tools:**  
+AWS · Google Cloud Provider · Docker · MongoDB · Firestore · Linux · Git · Jira  
+
+**Concepts:**  
+Full-Stack Development · API Design · Machine Learning · Distributed Systems · Agile Methodologies  
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 💼 Experience Highlights
+
+**Software Engineering Intern @ Stealth AI Startup** — *San Francisco, CA*  
+*July 2025 – Present*  
+- Accelerated cybersecurity testing workflows by **30%** through AI agents built with **AWS Bedrock** and **MCP servers**  
+- Deployed TypeScript-based weather-agent MCP server on **GCP**  
+- Created Python scrapers to automate multi-source data aggregation  
+
+**Programmer & IT Technician @ Stony Brook DoIT** — *Feb 2025 – May 2025*  
+- Built a **C# API** for SSO authentication via LDAP & Active Directory  
+- Implemented new features and bug fixes across **React** and **Vue dashboards** used by 10+ administrators  
+
+**Software Developer @ Umee** — *Dec 2024 – Mar 2025*  
+- Optimized serverless architecture for a **Flutter chat app**, cutting AWS costs by **50%**  
+- Integrated **AWS Amplify** & **S3** for profile media uploads, reducing load times by **60%**
+
+**Software Engineering Intern @ Geninvo** — *June – Aug 2023*  
+- Developed NLP pipelines with **Hugging Face Transformers** to automate pharma documentation review  
+- Used **Tesseract OCR** to extract structured data from clinical trial PDFs with 90% accuracy  
+
+---
+
+## 🧑‍💻 Leadership
+
+**Event Coordinator @ Stony Brook Web Development Club**  
+- Hosted biweekly workshops on web dev, GPT wrappers, ML visualization, and full-stack tools  
+- Organized the club’s largest event with **89+ attendees**
+
+---
+
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ayushb2005&show_icons=true&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushb2005&layout=compact&theme=radical)
 
 ---
 
-**Thanks for stopping by!**  
-If you like what you see, feel free to ⭐ any repos or reach out.  
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ayushbhanushali)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/ayushb2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?logo=firefox)](https://ayushbhanushali.com/whisperboard)
 
 ---
 
+> “Code. Learn. Build. Repeat.”  
+> — Ayush Bhanushali
