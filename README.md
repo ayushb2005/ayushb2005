@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-- 🎓 Sophomore at **Stony Brook University** pursuing a **B.S. in Computer Science**  
+- 🎓 Student at **Stony Brook University** pursuing a **B.S. in Computer Science**  
 - 🧠 Passionate about **AI, full-stack development, and distributed systems**  
 - 💼 Currently a **Software Engineering Intern** at a **Stealth AI Startup** in San Francisco  
 - 💬 Always open to collaborating on projects involving web apps, ML, or system design  
